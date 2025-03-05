@@ -20,12 +20,12 @@ source-code: https://github.com/dmmrscno/practice
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: practice 
+title: Bluff City Music Heritage Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: test
+tagline: A Memphis Music Reposity
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "practice is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A digital repository dedicated to the rich music legacy of Memphis, Tennessee. This collection is comprised of an array of artifacts including prints, promotional posters, photographs, newspaper articles, and album covers that document the city’s music and cultural influence on genres such as blues, rock, hip hop, and gospel."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Davy Marsicano
 
